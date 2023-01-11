@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6520532ce41d80048bbda502b58d90ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuCanvas: {fileID: 1468444361380454401, guid: 0b978534c3375af49a37c4f368d4c2a0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
