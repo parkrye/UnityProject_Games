@@ -1,8 +1,8 @@
 # Game Programming Study
 ## Unity
 - 2022
-+-- JumpGame: [Introduce](JumpGame/Introduce.md)
-+-- SimpleRPG
++ JumpGame: [Introduce](JumpGame/Introduce.md)
++ SimpleRPG
 +-- SimpleShooting
 +-- RaceGame
 +-- Chess
