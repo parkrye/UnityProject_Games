@@ -2,7 +2,7 @@
 ## Unity
 ```
 - 2022
-+-- JumpGame: [Introduce] (https://github.com/parkrye/Games/blob/main/JumpGame/Introduce.md)
++-- JumpGame: [Introduce](./Games/JumpGame/Introduce.md)
 +-- SimpleRPG
 +-- SimpleShooting
 +-- RaceGame
